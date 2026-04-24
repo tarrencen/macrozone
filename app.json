@@ -39,6 +39,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "082a1e54-e517-4033-a81d-f1481aa5f6bc"
+      }
+    },
+    "owner": "tarrencen"
   }
 }
